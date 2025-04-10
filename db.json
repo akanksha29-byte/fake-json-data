@@ -1,37 +1,39 @@
-[
-  {
-    "employeeId": 1,
-    "firstName": "Sonam",
-    "lastName": "Panwar",
-    "age": 26,
-    "gender": "F"
-  },
-  {
-    "employeeId": 2,
-    "firstName": "Rohit",
-    "lastName": "Sharma",
-    "age": 36,
-    "gender": "M"
-  },
-  {
-    "employeeId": 3,
-    "firstName": "Kapil",
-    "lastName": "Kumar",
-    "age": 23,
-    "gender": "M"
-  },
-  {
-    "employeeId": 4,
-    "firstName": "Aditya",
-    "lastName": "Joshi",
-    "age": 31,
-    "gender": "M"
-  },
-  {
-    "employeeId": 5,
-    "firstName": "Vidhi",
-    "lastName": "Rawat",
-    "age": 25,
-    "gender": "F"
-  }
-]
+{
+  "data": [
+    {
+      "employeeId": 1,
+      "firstName": "Sonam",
+      "lastName": "Panwar",
+      "age": 26,
+      "gender": "F"
+    },
+    {
+      "employeeId": 2,
+      "firstName": "Rohit",
+      "lastName": "Sharma",
+      "age": 36,
+      "gender": "M"
+    },
+    {
+      "employeeId": 3,
+      "firstName": "Kapil",
+      "lastName": "Kumar",
+      "age": 23,
+      "gender": "M"
+    },
+    {
+      "employeeId": 4,
+      "firstName": "Aditya",
+      "lastName": "Joshi",
+      "age": 31,
+      "gender": "M"
+    },
+    {
+      "employeeId": 5,
+      "firstName": "Vidhi",
+      "lastName": "Rawat",
+      "age": 25,
+      "gender": "F"
+    }
+  ]
+}
